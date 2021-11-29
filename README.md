@@ -1,4 +1,4 @@
-# HandDetectionHand Detection
+# Hand Detection
 Hand segmentation using Skin color and Motion Detection
 Table of Contents
 About The Project
